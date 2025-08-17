@@ -1,6 +1,6 @@
 ![CMPSC 201 word cloud](../assets/allegheny-college-cmpsc-201-fall-2025.png)
 
-# CMPSC 201: Programming Languages
+# CMPSC 201: Programming Languages (Fall 2025)
 
 > A study of the fundamental concepts that arise in different programming
 language paradigms. Students learn how programming languages are designed and
