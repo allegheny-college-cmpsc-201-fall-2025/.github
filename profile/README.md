@@ -54,14 +54,14 @@ basis (i.e., you did the thing by the time it was due, or you didn't).
   (meaning something that one of your peers has not already shared) to the
   week's Discord thread
 
-- **Team Deliverable:** *by Thursday @ 11:59pm*, create a team repository that
-  all team members have access to, and populate the README.md with a code of
-  conduct
+- **Team Deliverable:** *by Thursday @ 11:59pm*, create a team repository within
+  our course organization that all team members have access to, and populate the
+  README.md with a code of conduct
 
 - **Reflection Deliverable:** *by Saturday @ 11:59pm*, create an individual
-  repository that you and myself have access to, and (using whatever
-  organizational structure you deem fit) add a single markdown file that has a
-  200 word (minimum) answer to the following prompt:
+  repository within our course organization, and (using whatever organizational
+  structure you deem fit) add a single markdown file that has a 200 word
+  (minimum) answer to the following prompt:
   
   > Why am I taking CMPSC 201? How does this course and its stated learning
   > objectives fit into my academic/professional/personal goals?
