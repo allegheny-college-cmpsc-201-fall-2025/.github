@@ -74,18 +74,16 @@ basis (i.e., you did the thing by the time it was due, or you didn't).
     [method](https://www.w3schools.am/java/java_methods.html#gsc.tab=0) beyond
     a `main`
 
-- **Reflection Entry:** *by Saturday @ 11:59pm*, create an individual repository
-  within our course organization, and (using whatever organizational structure
-  you deem fit) add a single markdown file that has a 200 word (minimum) answer
-  to the following prompt:
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a 200 word (minimum) answer to the following prompt:
   
   > Compare and contrast Python & Java. Tell me about your familiarity with
   > either language, but also talk to me about some of your impressions of
   > what makes the two languages *similar*, as well as what makes them
   > *different*.
 
-- **Mapmaking Task:** *by Saturday @ 11:59pm*, within the same repository that
-  you'll store your reflection entries in, add an image file exported from
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add an image file exported from
   [excalidraw](https://excalidraw.com/) that identifies the eight parts of a
   language identified by Nystrom and visualizes their relationships to one
   another; more specifically, draw eight shapes (one for each part) and ensure
