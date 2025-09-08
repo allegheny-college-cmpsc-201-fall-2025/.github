@@ -28,7 +28,7 @@ is available for free in a webbook format.
 | 8/26 (no lab)            | Commit    | Orientation              | Chapter 1  |
 | 9/1 (no lab)             | Commit    | Parts of a Language      | Chapter 2  |
 | 9/8                      | Commit    | Enter Lox                | Chapter 3  |
-| 9/15                     | Build     | Language Zoo             | N/A        |
+| 9/15                     | Build     | Language Toy Box         | N/A        |
 | 9/22                     | Commit    | Scanning                 | Chapter 4  |
 | 9/29                     | Commit    | Grammars                 | Chapter 5  |
 | 10/6 (no TH class)       | Commit    | Parsing                  | Chapter 6  |
