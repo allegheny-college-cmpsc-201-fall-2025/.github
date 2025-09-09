@@ -54,7 +54,7 @@ basis (i.e., you did the thing by the time it was due, or you didn't).
 - **Team Deliverable:** *by Thursday @ 12:15pm*, submit a project charter for
   next week's team-based project, which should include:
   
-  - Team Roles (1 captain, 2 presenters, and 3-4 technical team members)
+  - Team roles (1 captain, 2 presenters, and 3-4 technical team members)
 
   - A list of the 5 toys your team will be assembling, including the language
     of implementation and the general function of the toy, keeping in mind that
@@ -63,7 +63,7 @@ basis (i.e., you did the thing by the time it was due, or you didn't).
     - At least 3 functions/methods/modules outside of a `main`-esque control
       structure
 
-    - The utilization of least 3 different data types
+    - The utilization of at least 3 different data types
 
     - The capability to accept user input for the sake of facilitating *play*
 
