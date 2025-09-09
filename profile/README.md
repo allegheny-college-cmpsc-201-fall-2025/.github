@@ -52,8 +52,24 @@ basis (i.e., you did the thing by the time it was due, or you didn't).
   week's Discord thread pertaining to one of Nystrom's end-of-chapter challenges
 
 - **Team Deliverable:** *by Thursday @ 12:15pm*, submit a project charter for
-  next week's team-based project; relevant criteria for this will be discussed
-  in-class on Tuesday
+  next week's team-based project, which should include:
+  
+  - Team Roles (1 captain, 2 presenters, and 3-4 technical team members)
+
+  - A list of the 5 toys your team will be assembling, including the language
+    of implementation and the general function of the toy, keeping in mind that
+    each toy must ultimately include:
+    
+    - At least 3 functions/methods/modules outside of a `main`-esque control
+      structure
+
+    - The utilization of least 3 different data types
+
+    - The capability to accept user input for the sake of facilitating *play*
+
+  - At least two intermediate deadlines per team member
+
+  - A schedule of performance review sessions for 9/15, 9/16, & 9/18
 
 - **Individual Deliverable:** *by Friday @ 7:59pm*, successfully demo a Lox
   version of TheCoolerTeam's banking toy program using
