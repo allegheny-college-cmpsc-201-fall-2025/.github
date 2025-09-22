@@ -42,42 +42,51 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (9/15)
+## Current Week Deliverables (9/22)
 
-- **Language Toy Box:** for up to five possible points, work with your team to
-  successfully demonstrate five playable toy programs written in five different
-  languages; you'll receive one point for every toy that meets *all* of the
-  following criteria:
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread pertaining to the scanner we're building this week
 
-  - Satisfies all inclusion requirements:
+- **Team Deliverable:** *by Friday @ 7:59pm*, have every team member demo a
+  working version of the scanner from chapter four of the textbook, and ensure
+  the following requirements are met:
 
-    - At least 3 functions/methods/modules outside of a `main`-esque control
-    structure
+  - Every team member must make at least one `commit` to at least one of the
+    four files powering the scanner
 
-    - The utilization of at least 3 different data types
+  - Every team member must contribute at least three comments identifiable via
+    initials (e.g., `// JN: this is my comment`) that either describe what
+    Nystrom's code is doing or otherwise provide additional context
 
-    - The capability to accept user input for the sake of facilitating *play*
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, create a
+  `learning-objectives` folder in your individual repository, and add a file
+  `learning-objective-two.md` that contains a 500 word statement detailing
+  how you've grappled with and demonstrated some level of competency with
+  the second learning objective for this course:
 
-  - Does not break when being presented/demoed
+  > Effectively use programming language constructs to design correct,
+  > efficient, and well-tested programs in multiple programming languages,
+  > including but not limited to Java.
 
-  - Is presented alongside extemporaneous discussion stemming from the
-    highlights of the `project-reflection.md` file, which should contain 150
-    words (per toy) that addresses the following:
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a Markdown (`.md`) file with a 200 word (minimum) response to
+  the following prompt:
+  
+  > We've made it through 25% of the semester, and 25% of the possible points
+  > have been dealt out at this point. With this in mind, take your current
+  > overall score from the latest `gradebook` update and multiply your current
+  > score by 4. Look at the grade conversion chart in the syllabus and determine
+  > what grade that score would earn--that's the grade that you're more or less
+  > on track for. Is this a grade that you're happy with? Regardless of whether
+  > you're satisfied with that potential grade or not, answer these two
+  > questions: a) what actions have you taken that have paved the way to your
+  > current score so far? b) what strategies will you employ for the rest of
+  > this semester to either maintain or pivot your current trajectory?
 
-    - How did the language lend itself to the implementation of that toy?
-
-    - What obstacles did you encounter?
-
-    - If you could do this project again would you build this toy in a different
-      language? Why or why not?
-
-- **Performance Review:** for up to five possible points, engage with the
-  instructor in a one-on-one conversation during your scheduled session about
-  your performance thus far in the semester:
-
-    - Three points will be derived from discussion reviewing three of your prior
-      commit week deliverables, the selection of which is determined by the
-      instructor
-
-    - Two points will be derived from feedback provided by your peers regarding
-      your contributions to team-based deliverables
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add an image file exported from
+  [excalidraw](https://excalidraw.com/) that illustrates a high-level view of
+  how the code powering this week's scanner works; this visual representation
+  must include a minimum of ten shapes that illustrate the general process, and
+  should also note the expected input/output of the scanning stage
