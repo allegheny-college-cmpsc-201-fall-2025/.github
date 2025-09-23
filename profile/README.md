@@ -14,6 +14,17 @@ through both written documents and oral presentations. Students are invited to
 use their own departmentally approved laptop in this course; a limited number of
 laptops are available for use during class and lab sessions.
 
+## Office Hours
+
+Given the relatively small population of our course, appointments will not be
+necessary; i.e., **all office hours are walk-in only**. That means first come,
+first serve.
+
+| Day | Time          |
+| :-- | ------------: |
+| Wed | 5p - 6p       |
+| Fri | 6p - 8p       |
+
 ## Textbook: *Crafting Interpreters*
 
 No textbook purchases are required for this course. Rather, this course utilizes
