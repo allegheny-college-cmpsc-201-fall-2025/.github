@@ -53,51 +53,39 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (9/22)
+## Current Week Deliverables (9/29)
 
 - **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
   (meaning something that one of your peers has not already shared) to this
-  week's Discord thread pertaining to the scanner we're building this week
+  week's Discord thread about rules for breakfast
 
-- **Team Deliverable:** *by Friday @ 7:59pm*, have every team member demo a
-  working version of the scanner from chapter four of the textbook, and ensure
-  the following requirements are met:
+- **Team Deliverable:** *by Monday @ 3:59pm*, participate in our in-class
+  activity around teaching context-free grammars (if you miss this class
+  session, you can use a token and come to my office hours to have a one-on-one
+  conversation about context-free grammars for the point)
 
-  - Every team member must make at least one `commit` to at least one of the
-    four files powering the scanner
-
-  - Every team member must contribute at least three comments identifiable via
-    initials (e.g., `// JN: this is my comment`) that either describe what
-    Nystrom's code is doing or otherwise provide additional context
-
-- **Individual Deliverable:** *by Saturday @ 11:59pm*, create a
-  `learning-objectives` folder in your individual repository, and add a file
-  `learning-objective-two.md` that contains a 500 word statement detailing
-  how you've grappled with and demonstrated some level of competency with
-  the second learning objective for this course:
-
-  > Effectively use programming language constructs to design correct,
-  > efficient, and well-tested programs in multiple programming languages,
-  > including but not limited to Java.
+- **Individual Deliverable:** *by Wednesday @ 11:59pm*, within your individual
+  repository, write a series of (at least 25) rules for an activity in the style
+  of a language grammar like Nystrom's breakfast rules; be sure to write them in
+  the style of 5.1.2's condensed notation within a Markdown (`.md`) file (no
+  other file types will be counted); additionally, be prepared to share them in
+  class on Thursday
 
 - **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
-  repository, add a Markdown (`.md`) file with a 200 word (minimum) response to
-  the following prompt:
+  repository, add a Markdown (`.md`) file (no other file types will be counted)
+  with a 200 word (minimum) response to the following prompt:
   
-  > We've made it through 25% of the semester, and 25% of the possible points
-  > have been dealt out at this point. With this in mind, take your current
-  > overall score from the latest `gradebook` update and multiply your current
-  > score by 4. Look at the grade conversion chart in the syllabus and determine
-  > what grade that score would earn--that's the grade that you're more or less
-  > on track for. Is this a grade that you're happy with? Regardless of whether
-  > you're satisfied with that potential grade or not, answer these two
-  > questions: a) what actions have you taken that have paved the way to your
-  > current score so far? b) what strategies will you employ for the rest of
-  > this semester to either maintain or pivot your current trajectory?
+  > Read this TIME article about
+  > [AI use in the classroom](https://time.com/7295195/ai-chatgpt-google-learning-school/)
+  > and briefly highlight your take-aways. What strategies will you employ in
+  > this course to use AI in such a way that your learning is safeguarded?
 
 - **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
-  repository, add an image file exported from
-  [excalidraw](https://excalidraw.com/) that illustrates a high-level view of
-  how the code powering this week's scanner works; this visual representation
-  must include a minimum of ten shapes that illustrate the general process, and
-  should also note the expected input/output of the scanning stage
+  repository, add a `.png` image file (no other file types will be counted)
+  exported from [excalidraw](https://excalidraw.com/) that visualizes the
+  generalized mechanics of how a programming language is interpeted; these
+  mechanics should tie back to your map for last week about scanning (that is,
+  don't clear your canvas); additionally, this time there are no requirements
+  around number of entities used, but credit will only be given to those that
+  comprehensively present a general understanding of how language grammars
+  "work"
