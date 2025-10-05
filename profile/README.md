@@ -53,39 +53,32 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (9/29)
+## Current Week Deliverables (10/6)
 
 - **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
   (meaning something that one of your peers has not already shared) to this
-  week's Discord thread about rules for breakfast
+  week's Discord thread about Nystrom's parsing code snippets
 
-- **Team Deliverable:** *by Monday @ 3:59pm*, participate in our in-class
-  activity around teaching context-free grammars (if you miss this class
-  session, you can use a token and come to my office hours to have a one-on-one
-  conversation about context-free grammars for the point)
+- **Team Deliverable:** *by Tuesday @ 12:14pm*, submit a project charter for
+  next week's build project, the requirements for which will be reviewed during
+  Monday's class
 
-- **Individual Deliverable:** *by Wednesday @ 11:59pm*, within your individual
-  repository, write a series of (at least 25) rules for an activity in the style
-  of a language grammar like Nystrom's breakfast rules; be sure to write them in
-  the style of 5.1.2's condensed notation within a Markdown (`.md`) file (no
-  other file types will be counted); additionally, be prepared to share them in
-  class on Thursday
+- **Individual Deliverable:** *by Wednesday @ 5:59pm*, demonstrate a working
+  version of your team's Lox parser for the instructor and add at least three
+  comments with your initials to the code for `Parser`, `GenerateAst`, or
+  `AstPrinter`
 
-- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+- **Reflection Entry:** *by Wednesday @ 11:59pm*, within your individual
   repository, add a Markdown (`.md`) file (no other file types will be counted)
   with a 200 word (minimum) response to the following prompt:
   
-  > Read this TIME article about
-  > [AI use in the classroom](https://time.com/7295195/ai-chatgpt-google-learning-school/)
-  > and briefly highlight your take-aways. What strategies will you employ in
-  > this course to use AI in such a way that your learning is safeguarded?
+  > Review your team's plan for tackling next week's build project. To your own
+  > understanding, what will the final deliverable look like? How will it
+  > logically function?
 
-- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+- **Mapmaking Task:** *by Wednesday @ 11:59pm*, within your individual
   repository, add a `.png` image file (no other file types will be counted)
-  exported from [excalidraw](https://excalidraw.com/) that visualizes the
-  generalized mechanics of how a programming language is interpeted; these
-  mechanics should tie back to your map for last week about scanning (that is,
-  don't clear your canvas); additionally, this time there are no requirements
-  around number of entities used, but credit will only be given to those that
-  comprehensively present a general understanding of how language grammars
-  "work"
+  exported from [excalidraw](https://excalidraw.com/) that visualizes how the
+  Lox `Parser` works; this should connect to the maps for scanning and grammars
+  (do not clear your canvas) and should also use at least ten shapes/entities
+  to illustrate the `Parser`
