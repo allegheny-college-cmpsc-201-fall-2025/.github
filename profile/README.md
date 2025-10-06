@@ -60,8 +60,50 @@ is available for free in a webbook format.
   week's Discord thread about Nystrom's parsing code snippets
 
 - **Team Deliverable:** *by Tuesday @ 12:14pm*, submit a project charter for
-  next week's build project, the requirements for which will be reviewed during
-  Monday's class
+  next week's build project which includes:
+
+  - Role assignments: one captain (responsible for the `project-charter.md`
+    file) and two presenters (responsible for the `project-reflection.md`)
+
+  - At least two intermediate deadlines per team member; each deadline should
+    note the specific individuals responsible for the deadline as well as the
+    date the task should be achieved by
+
+  - A performance review schedule noting who is being reviewed on which days
+    next week, based on this cadence:
+
+    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
+
+    - 2 team members on Tuesday
+
+    - 1 team member on Thursday
+
+  - The selection of five linting rules that the team will tackle from the below
+    menu:
+
+    - A: Unused imports - import statements never used/referenced
+
+    - B: Variable shadowing - variable names inside a function that reuse an
+      outer scope variable name
+
+    - C: Unreachable code - code after a `return`, `break`, or `continue` that
+      can't be accessed
+
+    - D: Empty blocks - `if`, `for`, and `while` statements that only contain
+      `pass`
+
+    - E: Long functions - functions that contain more than *N* statements
+
+    - F: Naming conventions - enforcing `snake_case` for variables & functions
+
+    - G: Magic numbers - "bare" constants used instead of named variables
+
+    - H: Docstring enforcement - require a docstring for all functions
+    
+    - I: Too many parameters - detect functions with more than *N* arguments
+
+    - J: Nested control structures - detect nesting that goes deeper than *N*
+      levels
 
 - **Individual Deliverable:** *by Wednesday @ 5:59pm*, demonstrate a working
   version of your team's Lox parser for the instructor and add at least three
