@@ -43,7 +43,7 @@ is available for free in a webbook format.
 | 9/22                     | Commit    | Scanning                 | Chapter 4  |
 | 9/29                     | Commit    | Grammars                 | Chapter 5  |
 | 10/6 (no TH class)       | Commit    | Parsing                  | Chapter 6  |
-| 10/13                    | Build     | Mission Im-parse-ible    | N/A        |
+| 10/13                    | Build     | Tree-Walk Linter         | N/A        |
 | 10/20                    | Commit    | Expressions              | Chapter 7  |
 | 10/27                    | Commit    | Statements               | Chapter 8  |
 | 11/3 (no TU class)       | Commit    | Control Flow             | Chapter 9  |
@@ -53,74 +53,40 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (10/6)
+## Current Week Deliverables (10/13)
 
-- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
-  (meaning something that one of your peers has not already shared) to this
-  week's Discord thread about Nystrom's parsing code snippets
+- **Tree-Walk Linter:** for up to five possible points, work with your team to
+  successfully demonstrate a linter that can take a source code input and report
+  on style breaches based on five distinct linting rules; one point each will be
+  awarded for meeting the following criteria:
 
-- **Team Deliverable:** *by Tuesday @ 12:14pm*, submit a project charter for
-  next week's build project which includes:
+  - Demonstrates clear use of the Python `ast` module in achieving the objective
 
-  - Role assignments: one captain (responsible for the `project-charter.md`
-    file) and two presenters (responsible for the `project-reflection.md`)
+  - Successfully reads in a source code file as an input and reports *where* the
+    problem(s) were and *what* rule(s) were breached
 
-  - At least two intermediate deadlines per team member; each deadline should
-    note the specific individuals responsible for the deadline as well as the
-    date the task should be achieved by
+  - Does not break when being presented/demoed
 
-  - A performance review schedule noting who is being reviewed on which days
-    next week, based on this cadence:
+  - Clearly shows the ability to catch all five selected linting rule cases
 
-    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
+  - Is presented alongside extemporaneous discussion stemming from the
+    highlights of the `project-reflection.md` file that addresses the following
+    questions:
 
-    - 2 team members on Tuesday
+    - How did the `ast` module assist in this endeavor? (~250 words)
 
-    - 1 team member on Thursday
+    - Would this have been possible without the use of an AST? If so, would the
+      alternative approach be more/less effective? If not, *why*? (~250 words)
 
-  - The selection of five linting rules that the team will tackle from the below
-    menu:
+    - What obstacles did your team encounter while implementing this project,
+      and how did you overcome them? (~250 words)
 
-    - A: Unused imports - import statements never used/referenced
+- **Performance Review:** for up to five possible points, engage with the
+  instructor in a one-on-one conversation during your scheduled session about
+  your performance thus far in the semester:
 
-    - B: Variable shadowing - variable names inside a function that reuse an
-      outer scope variable name
+    - Three points will be derived from responding to high-level questions about
+      the topics covered in commit weeks four, five, and six
 
-    - C: Unreachable code - code after a `return`, `break`, or `continue` that
-      can't be accessed
-
-    - D: Empty blocks - `if`, `for`, and `while` statements that only contain
-      `pass`
-
-    - E: Long functions - functions that contain more than *N* statements
-
-    - F: Naming conventions - enforcing `snake_case` for variables & functions
-
-    - G: Magic numbers - "bare" constants used instead of named variables
-
-    - H: Docstring enforcement - require a docstring for all functions
-    
-    - I: Too many parameters - detect functions with more than *N* arguments
-
-    - J: Nested control structures - detect nesting that goes deeper than *N*
-      levels
-
-- **Individual Deliverable:** *by Wednesday @ 5:59pm*, demonstrate a working
-  version of your team's Lox parser for the instructor and add at least three
-  comments with your initials to the code for `Parser`, `GenerateAst`, or
-  `AstPrinter`
-
-- **Reflection Entry:** *by Wednesday @ 11:59pm*, within your individual
-  repository, add a Markdown (`.md`) file (no other file types will be counted)
-  with a 200 word (minimum) response to the following prompt:
-  
-  > Review your team's plan for tackling next week's build project. To your own
-  > understanding, what will the final deliverable look like? How will it
-  > logically function?
-
-- **Mapmaking Task:** *by Wednesday @ 11:59pm*, within your individual
-  repository, add a `.png` image file (no other file types will be counted)
-  exported from [excalidraw](https://excalidraw.com/) that visualizes how the
-  Lox `Parser` works; this should connect to the maps for scanning and grammars
-  (do not clear your canvas) and should also use at least ten shapes/entities
-  to illustrate the `Parser`
+    - Two points will be derived from feedback provided by your peers regarding
+      your contributions to team-based deliverables
