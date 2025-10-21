@@ -53,40 +53,50 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (10/13)
+## Current Week Deliverables (10/20)
 
-- **Tree-Walk Linter:** for up to five possible points, work with your team to
-  successfully demonstrate a linter that can take a source code input and report
-  on style breaches based on five distinct linting rules; one point each will be
-  awarded for meeting the following criteria:
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread about looking back over lessons learned this semester
 
-  - Demonstrates clear use of the Python `ast` module in achieving the objective
+- **Team Deliverable:** *by Friday @ 7:59pm*, have the instructor successfully
+  demo your Lox interpreter; to accomodate this, the interpreter must have the
+  following:
 
-  - Successfully reads in a source code file as an input and reports *where* the
-    problem(s) were and *what* rule(s) were breached
+  - All code through chapter 7 represented in the interpreter
 
-  - Does not break when being presented/demoed
+  - At least 10 comments in the `Interpreter.java` file describing what is
+    accomplished and how
 
-  - Clearly shows the ability to catch all five selected linting rule cases
+  - A `README.md` file that includes instructions for compiling/running the
+    interpreter, as well as sample input/output
 
-  - Is presented alongside extemporaneous discussion stemming from the
-    highlights of the `project-reflection.md` file that addresses the following
-    questions:
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
+  `learning-objective-three.md` to your `learning-objectives` directory that
+  contains a 500 word statement **written entirely in your own words** detailing
+  how you've grappled with and demonstrated some level of competency with
+  the third learning objective for this course:
 
-    - How did the `ast` module assist in this endeavor? (~250 words)
+  > Interpret and use an existing programming language grammar.
 
-    - Would this have been possible without the use of an AST? If so, would the
-      alternative approach be more/less effective? If not, *why*? (~250 words)
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a Markdown (`.md`) file (no other file types will be counted)
+  with a 200 word (minimum) response to the following prompt:
+  
+  > Look back on what we've covered so far. Identify one outstanding question
+  > you have related to any topics covered thus far...and look into possible
+  > answers! Be sure to cite at least two sources that address this question.
 
-    - What obstacles did your team encounter while implementing this project,
-      and how did you overcome them? (~250 words)
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a `.png` image file (no other file types will be counted)
+  exported from [excalidraw](https://excalidraw.com/) that "cleans up" and
+  condenses the maps covering content from chapters four, five, and six while
+  accomplishing the following:
+  
+  - Must include five entities from Nystrom's map at the beginning of chapter
+    two
 
-- **Performance Review:** for up to five possible points, engage with the
-  instructor in a one-on-one conversation during your scheduled session about
-  your performance thus far in the semester:
+  - Must contain 15-20 entities total
 
-    - Three points will be derived from responding to high-level questions about
-      the topics covered in commit weeks four, five, and six
-
-    - Two points will be derived from feedback provided by your peers regarding
-      your contributions to team-based deliverables
+  - *Every* entity must explicitly articulate *how* it is related to at least
+    one other entity (e.g., using text alongside arrows)
