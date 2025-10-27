@@ -53,50 +53,46 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (10/20)
+## Current Week Deliverables (10/27)
 
 - **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
   (meaning something that one of your peers has not already shared) to this
-  week's Discord thread about looking back over lessons learned this semester
+  week's Discord thread recognizing other students' mapmaking accomplishments
 
 - **Team Deliverable:** *by Friday @ 7:59pm*, have the instructor successfully
   demo your Lox interpreter; to accomodate this, the interpreter must have the
   following:
 
-  - All code through chapter 7 represented in the interpreter
+  - All code through chapter eight represented in the interpreter
 
-  - At least 10 comments in the `Interpreter.java` file describing what is
+  - At least five comments in the `Environment.java` file describing what is
     accomplished and how
 
   - A `README.md` file that includes instructions for compiling/running the
-    interpreter, as well as sample input/output
+    interpreter, as well as sample input/output (be sure to update this with
+    any changes related to chapter eight)
 
-- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
-  `learning-objective-three.md` to your `learning-objectives` directory that
-  contains a 500 word statement **written entirely in your own words** detailing
-  how you've grappled with and demonstrated some level of competency with
-  the third learning objective for this course:
-
-  > Interpret and use an existing programming language grammar.
+- **Individual Deliverable:** *by Thursday @ 12:14pm*, work with a partner or
+  two to deliver a 5-10 minute lecture covering your assigned section of
+  chapters seven or eight--note that slides are not permitted, though you're
+  welcome to leverage the whiteboard
 
 - **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
   repository, add a Markdown (`.md`) file (no other file types will be counted)
   with a 200 word (minimum) response to the following prompt:
   
-  > Look back on what we've covered so far. Identify one outstanding question
-  > you have related to any topics covered thus far...and look into possible
-  > answers! Be sure to cite at least two sources that address this question.
+  > Address the third challenge at the end of chapter eight. Provide the output
+  > produced by your interpreter, and answer all of Nystrom's questions related
+  > to it.
 
 - **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
   repository, add a `.png` image file (no other file types will be counted)
-  exported from [excalidraw](https://excalidraw.com/) that "cleans up" and
-  condenses the maps covering content from chapters four, five, and six while
-  accomplishing the following:
+  exported from [excalidraw](https://excalidraw.com/) that adds content from
+  chapters seven and eight to your existing map from last week while meeting
+  the following criteria:
   
-  - Must include five entities from Nystrom's map at the beginning of chapter
-    two
-
-  - Must contain 15-20 entities total
+  - Must contain ~10 new entities addressing the evaluation of expressions and
+    statements
 
   - *Every* entity must explicitly articulate *how* it is related to at least
     one other entity (e.g., using text alongside arrows)
