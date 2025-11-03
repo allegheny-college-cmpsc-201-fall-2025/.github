@@ -78,11 +78,15 @@ is available for free in a webbook format.
 
     - 1 team member on Thursday
 
-  - The selection of three interpreter add-ons: one related to enhancing current
-    functionality, one related to more robust error handling, and one related to
-    an entirely new lox feature
+  - The selection of four interpreter add-ons: one related to enhancing current
+    functionality, one related to more robust error handling, one related to an
+    entirely new lox feature, and one "wild card" selection
 
-- **Individual Deliverable:** *by Thursday @ 12:14pm*, complete a brief write-up
+  - A plan for adding functionality from chapters nine and ten, and updating the
+    interpreter `README.md` with updated compile/run instructions and expected
+    inputs/outputs
+
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, complete a brief write-up
   (no more than 500 words) that gives a high-level summary of how the lox
   interpreter is implemented; this should be in `.md` and share a single file
   with a rendered image of your finalized map to be used in next week's
