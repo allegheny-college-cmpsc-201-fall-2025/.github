@@ -53,46 +53,58 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (10/27)
+## Current Week Deliverables (11/3)
 
 - **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
   (meaning something that one of your peers has not already shared) to this
-  week's Discord thread recognizing other students' mapmaking accomplishments
+  week's Discord thread regarding code snippets from chapter nine
 
-- **Team Deliverable:** *by Friday @ 7:59pm*, have the instructor successfully
-  demo your Lox interpreter; to accomodate this, the interpreter must have the
-  following:
+- **Team Deliverable:** *by Thursday @ 12:14pm*, submit a project charter for
+  next week's build project which includes:
 
-  - All code through chapter eight represented in the interpreter
+  - Role assignments: one captain (responsible for the `project-charter.md`
+    file) and two presenters (responsible for the `project-reflection.md`)
 
-  - At least five comments in the `Environment.java` file describing what is
-    accomplished and how
+  - At least two intermediate deadlines per team member; each deadline should
+    note the specific individuals responsible for the deadline as well as the
+    date the task should be achieved by
 
-  - A `README.md` file that includes instructions for compiling/running the
-    interpreter, as well as sample input/output (be sure to update this with
-    any changes related to chapter eight)
+  - A performance review schedule noting who is being reviewed on which days
+    next week, based on this cadence:
 
-- **Individual Deliverable:** *by Thursday @ 12:14pm*, work with a partner or
-  two to deliver a 5-10 minute lecture covering your assigned section of
-  chapters seven or eight--note that slides are not permitted, though you're
-  welcome to leverage the whiteboard
+    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
+
+    - 2 team members on Tuesday
+
+    - 1 team member on Thursday
+
+  - The selection of three interpreter add-ons: one related to enhancing current
+    functionality, one related to more robust error handling, and one related to
+    an entirely new lox feature
+
+- **Individual Deliverable:** *by Thursday @ 12:14pm*, complete a brief write-up
+  (no more than 500 words) that gives a high-level summary of how the lox
+  interpreter is implemented; this should be in `.md` and share a single file
+  with a rendered image of your finalized map to be used in next week's
+  performance review session
 
 - **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
   repository, add a Markdown (`.md`) file (no other file types will be counted)
   with a 200 word (minimum) response to the following prompt:
   
-  > Address the third challenge at the end of chapter eight. Provide the output
-  > produced by your interpreter, and answer all of Nystrom's questions related
-  > to it.
+  > If you could make any one change to the course to make it more instructive
+  > for you, what would it be? Why?
 
 - **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
   repository, add a `.png` image file (no other file types will be counted)
-  exported from [excalidraw](https://excalidraw.com/) that adds content from
-  chapters seven and eight to your existing map from last week while meeting
-  the following criteria:
-  
-  - Must contain ~10 new entities addressing the evaluation of expressions and
-    statements
+  exported from [excalidraw](https://excalidraw.com/) that finalizes the
+  semester-long mapmaking project by doing the following:
 
-  - *Every* entity must explicitly articulate *how* it is related to at least
-    one other entity (e.g., using text alongside arrows)
+  - Adding at least one entity related to content from chapter 9
+
+  - Ensuring that *all* entities are connected (no separated components) and
+    that the relationships between them are explicitly defined
+
+- **NOTE**: the individual deliverable and mapmaking task for this week will
+  serve as the foundation for next week's performance review; failure to
+  complete these will result in missed points for the performance review session
