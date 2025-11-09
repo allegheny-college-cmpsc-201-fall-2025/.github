@@ -47,7 +47,7 @@ is available for free in a webbook format.
 | 10/20                    | Commit    | Expressions              | Chapter 7  |
 | 10/27                    | Commit    | Statements               | Chapter 8  |
 | 11/3 (no TU class)       | Commit    | Control Flow             | Chapter 9  |
-| 11/10                    | Build     | Locking in Lox           | N/A        |
+| 11/10                    | Build     | Lox Interpreter 2.0      | N/A        |
 | 11/17                    | Commit    | Functions                | Chapter 10 |
 | 11/24 (no TH class)      | Working   | N/A                      | N/A        |
 | 12/1                     | Working   | N/A                      | N/A        |
