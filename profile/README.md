@@ -53,62 +53,32 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (11/3)
+## Current Week Deliverables (11/10)
 
-- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
-  (meaning something that one of your peers has not already shared) to this
-  week's Discord thread regarding code snippets from chapter nine
+- **Lox Interpreter 2.0:** for up to five possible points, work with your team
+  to successfully demonstrate a lox interpreter that implements conditional
+  logic and functions, as well as four drafted additional features wherein each
+  feature:
 
-- **Team Deliverable:** *by Thursday @ 12:14pm*, submit a project charter for
-  next week's build project which includes:
+  - Does not break when being presented/demoed
 
-  - Role assignments: one captain (responsible for the `project-charter.md`
-    file) and two presenters (responsible for the `project-reflection.md`)
+  - Is demonstrated using either REPL-style inputs or prepared source code file
+    inputs
 
-  - At least two intermediate deadlines per team member; each deadline should
-    note the specific individuals responsible for the deadline as well as the
-    date the task should be achieved by
+  - Is demonstrated alongside a brief review of the new code relevant to the
+    feature
 
-  - A performance review schedule noting who is being reviewed on which days
-    next week, based on this cadence:
+  - Is presented alongside extemporaneous discussion stemming from the
+    highlights of the `project-reflection.md` file, which should contain ~200
+    words per drafted feature addressing the following:
 
-    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
+    - What was the generalized strategy for implementing the feature?
 
-    - 2 team members on Tuesday
+    - Was implementing this feature easier/harder than anticipated? How so?
 
-    - 1 team member on Thursday
+    - What do you think Nystrom was trying to teach us by tasking us with this
+      challenge?
 
-  - The selection of four interpreter add-ons: one related to enhancing current
-    functionality, one related to more robust error handling, one related to an
-    entirely new lox feature, and one "wild card" selection
-
-  - A plan for adding functionality from chapters nine and ten, and updating the
-    interpreter `README.md` with updated compile/run instructions and expected
-    inputs/outputs
-
-- **Individual Deliverable:** *by Saturday @ 11:59pm*, complete a brief write-up
-  (no more than 500 words) that gives a high-level summary of how the lox
-  interpreter is implemented; this should be in `.md` and share a single file
-  with a rendered image of your finalized map to be used in next week's
-  performance review session
-
-- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
-  repository, add a Markdown (`.md`) file (no other file types will be counted)
-  with a 200 word (minimum) response to the following prompt:
-  
-  > If you could make any one change to the course to make it more instructive
-  > for you, what would it be? Why?
-
-- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
-  repository, add a `.png` image file (no other file types will be counted)
-  exported from [excalidraw](https://excalidraw.com/) that finalizes the
-  semester-long mapmaking project by doing the following:
-
-  - Adding at least one entity related to content from chapter 9
-
-  - Ensuring that *all* entities are connected (no separated components) and
-    that the relationships between them are explicitly defined
-
-- **NOTE**: the individual deliverable and mapmaking task for this week will
-  serve as the foundation for next week's performance review; failure to
-  complete these will result in missed points for the performance review session
+- **Performance Review:** for up to five possible points, engage with the
+  instructor in a one-on-one conversation during your scheduled session
+  discussing your culminating mapmaking task and the lox interpreter write-up
