@@ -90,7 +90,7 @@ is available for free in a webbook format.
 
     - 1 team member on Thursday
 
-- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
+- **Individual Deliverable:** *by Sunday @ 11:59pm*, add a file
   `learning-objective-one.md` to your `learning-objectives` directory that
   contains a 500 word statement **written entirely in your own words** detailing
   how you've grappled with and demonstrated some level of competency with
@@ -99,7 +99,7 @@ is available for free in a webbook format.
   > Correctly identify and describe the steps in the design and implementation
   > of a programming language.
 
-- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
+- **Individual Deliverable:** *by Sunday @ 11:59pm*, add a file
   `learning-objective-four.md` to your `learning-objectives` directory that
   contains a 500 word statement **written entirely in your own words** detailing
   how you've grappled with and demonstrated some level of competency with
