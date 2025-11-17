@@ -53,32 +53,57 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (11/10)
+## Current Week Deliverables (11/17)
 
-- **Lox Interpreter 2.0:** for up to five possible points, work with your team
-  to successfully demonstrate a lox interpreter that implements conditional
-  logic and functions, as well as four drafted additional features wherein each
-  feature:
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread regarding the *why* behind our course learning
+  objectives
 
-  - Does not break when being presented/demoed
+- **Team Deliverable:** *by Wednesday @ 5:59pm*, have the instructor approve a
+  project proposal that includes:
 
-  - Is demonstrated using either REPL-style inputs or prepared source code file
-    inputs
+  - ~100 word descriptions for the three components of the final project: a
+    language grammar, a tree-walk interpreter, and a sample program implementing
+    the heretofore unknown language
 
-  - Is demonstrated alongside a brief review of the new code relevant to the
-    feature
+  - A 10 point rubric that identifies 10 distinct "yes/no" questions that the
+    instructor can use to evaluate your team's success
 
-  - Is presented alongside extemporaneous discussion stemming from the
-    highlights of the `project-reflection.md` file, which should contain ~200
-    words per drafted feature addressing the following:
+- **Team Deliverable:** *by Thursday @ 12:14pm*, submit a project charter for
+  next week's build project which includes:
 
-    - What was the generalized strategy for implementing the feature?
+  - Role assignments: one captain (responsible for the `project-charter.md`
+    file and the `project-proposal.md`) and two presenters (responsible for the
+    `project-reflection.md`)
 
-    - Was implementing this feature easier/harder than anticipated? How so?
+  - At least two intermediate deadlines per team member; each deadline should
+    note the specific individuals responsible for the deadline as well as the
+    date the task should be achieved by
 
-    - What do you think Nystrom was trying to teach us by tasking us with this
-      challenge?
+  - A performance review schedule noting who is being reviewed on which days
+    during our final full week of class, based on this cadence:
 
-- **Performance Review:** for up to five possible points, engage with the
-  instructor in a one-on-one conversation during your scheduled session
-  discussing your culminating mapmaking task and the lox interpreter write-up
+    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
+
+    - 2 team members on Tuesday
+
+    - 1 team member on Thursday
+
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
+  `learning-objective-one.md` to your `learning-objectives` directory that
+  contains a 500 word statement **written entirely in your own words** detailing
+  how you've grappled with and demonstrated some level of competency with
+  the third learning objective for this course:
+
+  > Correctly identify and describe the steps in the design and implementation
+  > of a programming language.
+
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
+  `learning-objective-four.md` to your `learning-objectives` directory that
+  contains a 500 word statement **written entirely in your own words** detailing
+  how you've grappled with and demonstrated some level of competency with
+  the third learning objective for this course:
+
+  > Design, implement, and evaluate a correct scanner and parser for a
+  > programming language.
