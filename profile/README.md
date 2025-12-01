@@ -53,57 +53,27 @@ is available for free in a webbook format.
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
 
-## Current Week Deliverables (11/17)
+## Culminating Deliverables
 
-- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
-  (meaning something that one of your peers has not already shared) to this
-  week's Discord thread regarding the *why* behind our course learning
-  objectives
+- **Performance Review:** for up to five possible points, engage with the
+  instructor in a one-on-one conversation during your scheduled session
+  checking your knowledge against all five course learning objectives
 
-- **Team Deliverable:** *by Wednesday @ 5:59pm*, have the instructor approve a
-  project proposal that includes:
+- **Final Project:** for up to ten possible points, present your team's final
+  project on the last day of class, keeping the following in mind:
+  
+  - Your score will be based off of the rubric your team developed as part of
+    the project proposal
 
-  - ~100 word descriptions for the three components of the final project: a
-    language grammar, a tree-walk interpreter, and a sample program implementing
-    the heretofore unknown language
+  - Your presentation should satisfactorily answer whether you were able to
+    answer all ten of the criteria laid out in your rubric
 
-  - A 10 point rubric that identifies 10 distinct "yes/no" questions that the
-    instructor can use to evaluate your team's success
+  - Your `release/project-docs` directory should contain a
+    `project-reflection.md` that succinctly outlines how the presenters will
+    demonstrate the completion of rubric objectives
 
-- **Team Deliverable:** *by Thursday @ 12:14pm*, submit a project charter for
-  next week's build project which includes:
+- **Learning Objective Portfolio:** for up to five possible points, submit the
+  portfolio by the end of our exam period (by 11:59am on Tuesday, 12/9), keeping
+  the following in mind:
 
-  - Role assignments: one captain (responsible for the `project-charter.md`
-    file and the `project-proposal.md`) and two presenters (responsible for the
-    `project-reflection.md`)
-
-  - At least two intermediate deadlines per team member; each deadline should
-    note the specific individuals responsible for the deadline as well as the
-    date the task should be achieved by
-
-  - A performance review schedule noting who is being reviewed on which days
-    during our final full week of class, based on this cadence:
-
-    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
-
-    - 2 team members on Tuesday
-
-    - 1 team member on Thursday
-
-- **Individual Deliverable:** *by Sunday @ 11:59pm*, add a file
-  `learning-objective-one.md` to your `learning-objectives` directory that
-  contains a 500 word statement **written entirely in your own words** detailing
-  how you've grappled with and demonstrated some level of competency with
-  the third learning objective for this course:
-
-  > Correctly identify and describe the steps in the design and implementation
-  > of a programming language.
-
-- **Individual Deliverable:** *by Sunday @ 11:59pm*, add a file
-  `learning-objective-four.md` to your `learning-objectives` directory that
-  contains a 500 word statement **written entirely in your own words** detailing
-  how you've grappled with and demonstrated some level of competency with
-  the third learning objective for this course:
-
-  > Design, implement, and evaluate a correct scanner and parser for a
-  > programming language.
+  - **PORTFOLIO DIRECTIONS WILL BE RELEASED DURING THURSDAY'S CLASS**
