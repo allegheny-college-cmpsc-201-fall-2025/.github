@@ -78,9 +78,9 @@ is available for free in a webbook format.
 
   - Your individual repository should be organized by learning objective:
 
-    - All assignments within the repository should belong to one of five clearly
-      labeled folders that denotes which learning objective it is associated
-      with
+  - All assignments within the repository should belong to one of five clearly
+    labeled folders that denotes which learning objective it is associated with;
+    additionally, each folder should contain the following:
 
     - Every folder must contain one ~500 word write up (in your own words) that
       explains how you've grappled with that learning objective this semester
@@ -97,12 +97,12 @@ is available for free in a webbook format.
       completed for team deliverables and build/release weeks related to that
       learning objective
 
-    - Your repository is permitted to contain a `miscellany` folder that
-      contains assignments not clearly tied to one of the learning objectives
-      (e.g., reflections asking you to respond to course structure); this folder
-      should also contain a `README.md` that articulates which assignments are
-      contained within, and one sentence for each assignment defending the
-      notion that that assignment does not belong in a learning objective folder
+  - Your repository is permitted to contain a `miscellany` folder that contains
+    assignments not clearly tied to one of the learning objectives (e.g.,
+    reflections asking you to respond to course structure); this folder should
+    also contain a `README.md` that articulates which assignments are contained
+    within, and one sentence for each assignment defending the notion that that
+    assignment does not belong in a learning objective folder
 
   - The five points associated with this assignment are ALL OR NOTHING; either
     you satisfy the above criteria and receive the five points, or fail to and
