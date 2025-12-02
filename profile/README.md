@@ -72,8 +72,39 @@ is available for free in a webbook format.
     `project-reflection.md` that succinctly outlines how the presenters will
     demonstrate the completion of rubric objectives
 
-- **Learning Objective Portfolio:** for up to five possible points, submit the
-  portfolio by the end of our exam period (by 11:59am on Tuesday, 12/9), keeping
-  the following in mind:
+- **Learning Objective Portfolio:** for up to five possible points, organize
+  your individual repository into a learning objective portfolio by the end of
+  our exam period (by 11:59am on Tuesday, 12/9), keeping the following in mind:
 
-  - **PORTFOLIO DIRECTIONS WILL BE RELEASED DURING THURSDAY'S CLASS**
+  - Your individual repository should be organized by learning objective:
+
+    - All assignments within the repository should belong to one of five clearly
+      labeled folders that denotes which learning objective it is associated
+      with
+
+    - Every folder must contain one ~500 word write up (in your own words) that
+      explains how you've grappled with that learning objective this semester
+      (if you've been keeping up with these this semester, you should only have
+      to add one for the fifth learning objective)
+
+    - Every folder should contain a `README.md` that briefly outlines the
+      assignments contained within that folder, and one sentence for each
+      assignment that defines how the assignment ties back to the learning
+      objective in question
+
+    - Every learning objective folder should also contain a brief ~250 word
+      write up called `team-contributions.md` that cites specific work you've
+      completed for team deliverables and build/release weeks related to that
+      learning objective
+
+    - Your repository is permitted to contain a `miscellany` folder that
+      contains assignments not clearly tied to one of the learning objectives
+      (e.g., reflections asking you to respond to course structure); this folder
+      should also contain a `README.md` that articulates which assignments are
+      contained within, and one sentence for each assignment defending the
+      notion that that assignment does not belong in a learning objective folder
+
+  - The five points associated with this assignment are ALL OR NOTHING; either
+    you satisfy the above criteria and receive the five points, or fail to and
+    do not receive any--there will be no partial credit distributed for this
+    culminating deliverable
